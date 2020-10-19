@@ -22,7 +22,13 @@
 
   "RepoName": "Start-Azure-ARM-VMs",
 
-  "UpdatedDate": "2016-10-22",
+  "UpdatedDate": "2016-10-23T00:00:00",
+  
+  "ReleaseDate": "2016-1-7T00:00:00",
+  
+  "RunbookKindString": "Graphical Powershell",
+  
+  "ContentUrl" : "https://raw.githubusercontent.com/krmanupa/test/master/test2.py",
 
   "IsFederated": true,
 
