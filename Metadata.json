@@ -1,0 +1,35 @@
+{
+
+  "Id": "Start-Azure-ARM-VMs-66fb875d",
+
+  "Title": "Start Azure V2 VMs",
+
+  "Summary": "This Graphical PowerShell runbook connects to Azure using an Automation Run As account and starts all V2 VMs in an Azure subscription or in a resource group or a single named V2 VM.  You can attach a recurring schedule to this runbook to run it at a specific time.  The asso",
+
+  "Rating": 4.52777777777778,
+
+  "RaterCount": 36,
+
+  "DownloadCount": 159262,
+
+  "Popularity": 1,
+
+  "Author": "Azure Automation Product Team",
+
+  "ScriptName": "Name",
+
+  "ContentSize": 87462,
+
+  "RepoName": "Start-Azure-ARM-VMs",
+
+  "UpdatedDate": "2016-10-22",
+
+  "IsFederated": true,
+
+  "IsWorkflow": false,
+
+  "UserTags": "Azure Virtual Machines, Start VM, GraphicalPS",
+
+  "RunbookKind": 3
+
+}
